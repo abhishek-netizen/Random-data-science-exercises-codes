@@ -1,0 +1,25 @@
+1)detail.csv : concatenated based on record index
+1)detailDownsampled.csv : Downsampled based on sample/minute
+1)details.html : visualizations 
+1)details_dataset_Report : a report on exploratory data analysis
+--
+2)detailVol.csv : concatenated based on record index
+2)detailVolDownsampled.csv : Downsampled based on sample/minute
+2)detailsVol.html : Visualizations
+2)detailsVol Report.html : a report on exploratory data analysis
+--
+3)detailTemp.csv : concatenated based on record index
+3)detailTempDownsample.csv  : Downsampled based on sample/minute
+3)detailTemp.html : Visualizations
+3)detailTemp Report.html : a report on exploratory data analysis
+----------------
+Downsampling.ipynb : a notebook which is only runnable in Jupyter notebook(Anaconda IDE),
+                     Contains codes, Regarding downsaple and Filtering.
+Visualization.ipynb : a notebook which is only runnable in Jupyter notebook (Anaconda IDE)
+                      Contains codes on generating reports for the visualizations.
+
+Try to run the code from top to bottom, Please kindly clear the Kernal and its output, wherever it is mentioned.
+
+Or 
+
+Take a look at the codes by visiting this link:
